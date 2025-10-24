@@ -1,0 +1,22 @@
+.h1 {
+  color: red;
+}
+
+.paragrafo {
+  font-size: 4rem;
+  background-color: rgb(100, 66, 66);
+}
+
+.box {
+  width: 300px;
+  height: 300px;
+  border: 2px solid rgb(0, 0, 0);
+}
+
+.colorido {
+  background-color: rgb(161, 84, 84);
+}
+
+.cinza {
+  background-color: rgb(111, 92, 92);
+}
